@@ -23,3 +23,5 @@ PROCEDURE CalculateAmountPrice (amount, price)
     STORE "result" with amount multiply price
     PRINT "result"
 END PROCEDURE
+
+CALL CalculateAmountPrice (2, 30.000)
