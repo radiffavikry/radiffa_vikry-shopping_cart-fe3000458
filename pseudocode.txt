@@ -1,0 +1,5 @@
+Pseudocode Shopping Cart Simple
+
+READ AND WRITE "name" with string
+STORE "name" with "item name"
+PRINT "name" 
