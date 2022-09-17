@@ -1,0 +1,27 @@
+Pseudocode Shopping Cart Simple
+
+READ AND WRITE "name" with string
+STORE "name" with "item name"
+PRINT "name" 
+
+Input Amount Item "true"
+Input Item Name "false"
+
+IF "name" true:
+   Input Amount Item
+ELSE 
+   Input Item Name
+
+READ AND WRITE "amount" with number
+READ  "price"
+STORE "amount" with 1-999
+STORE "price" with 0-500.000.000
+PRINT "amount"
+PRINT "price"
+
+PROCEDURE CalculateAmountPrice (amount, price)
+    STORE "result" with amount multiply price
+    PRINT "result"
+END PROCEDURE
+
+CALL CalculateAmountPrice (2, 30.000)
