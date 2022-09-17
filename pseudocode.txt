@@ -3,3 +3,11 @@ Pseudocode Shopping Cart Simple
 READ AND WRITE "name" with string
 STORE "name" with "item name"
 PRINT "name" 
+
+Input Amount Item "true"
+Input Item Name "false"
+
+IF "name" true:
+   Input Amount Item
+ELSE 
+   Input Item Name
