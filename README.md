@@ -1,2 +1,2 @@
-# radiffa_vikry-shopping_cart-fe3000458
-SHOPPING CART APP
+# SHOPPING CART APP
+Radiffa Vikry Rizalulhaq - FE3000458
